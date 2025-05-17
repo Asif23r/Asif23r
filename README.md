@@ -17,7 +17,7 @@
     <a href="https://github.com/Asif23r" target="_blank">
       <img src="https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://t.me/asif23r" target="_blank">
+    <a href="https://t.me/RaazXdev" target="_blank">
       <img src="https://img.shields.io/badge/telegram-%232E3440.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
   </div>
